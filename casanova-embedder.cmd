@@ -8,6 +8,7 @@ echo %username%
 echo -----------
 echo Press Enter...
 pause > nul
+cls
 goto 1
 
 ::1
